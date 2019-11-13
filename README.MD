@@ -14,9 +14,9 @@ License:
   receive a contribution! haha
 
 
-Files:
-    # Getmatch.py
-      Is a script to get the matches that will occur Today.
+*Files:
+     <h2>Getmatch.py</h2>
+         Is a script to get the matches that will occur Today.
 
 
 Enjoy!
