@@ -9,9 +9,7 @@ take a look and if it helps you with something, just let me know how you applied
 
 This can be used to get any information from anykind of sports scores you want to! 
 
-License:
-  If you use it to create a startup or a product AND also became millionaire, I'll be glad to
-  receive a contribution! haha
+
 
 
 *Files:
